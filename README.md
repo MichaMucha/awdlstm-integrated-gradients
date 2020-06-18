@@ -1,3 +1,6 @@
+[https://course.create.ml]()
+
+
 **[view notebook](explaining_predictions_awdlstm.ipynb)**
 
 ### Installing the environment
